@@ -4,5 +4,5 @@ Shared materials for teaching high school CS students version control, collabora
 
 **Branches:**
 
-* **master**: the branch in use for the current school year / semester, merged from the branch _start_-_end_.
+* **master**: the branch in use for the current school year / semester, merged from a _start_-_end_ branch.
 * ***start**-**end***: the branch for a particular year. Development for the next year is happening on this branch, the old ones show history from prior years.
